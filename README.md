@@ -13,3 +13,5 @@ all 64 squares of the board keeping in mind that it can move to a square ONLY ON
 
 1. Chess piece sound (ks.wav)
 2. Theme Music (theme.wav)(Made on **Ableton Live 9** by Me!)
+
+### Date Created : JULY 2017
